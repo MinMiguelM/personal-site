@@ -1,4 +1,4 @@
-baseURL = "https://minmiguelm.github.io/personal-site/"
+baseURL = "https://minagle.com"
 languageCode = "en-us"
 title = "Minagle"
 theme = "hugo-coder"
