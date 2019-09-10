@@ -1,8 +1,9 @@
-baseURL = "http://minagle.com/"
+baseURL = "https://minmiguelm.github.io/personal-site/"
 languageCode = "en-us"
 title = "Minagle"
 theme = "hugo-coder"
 defaultcontentlanguage = "en"
+publishDir = "docs"
 
 paginate = 20
 canonifyurls = true
